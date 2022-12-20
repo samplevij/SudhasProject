@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class ReadingPropertyFile {
+	//just for comments
 	
 	public static String getCredentials(String propName)
 	{
